@@ -1,5 +1,8 @@
 # LangGraph Simple Chatbot
 
+<img width="2037" alt="Screenshot 2025-03-12 at 08 25 36" src="https://github.com/user-attachments/assets/3202916a-0128-4c2d-bff2-0404d20e08ec" />
+
+
 A step-by-step implementation of a sophisticated chatbot built with LangGraph, demonstrating the power of stateful multi-agent applications.
 
 ## 🌟 Features
